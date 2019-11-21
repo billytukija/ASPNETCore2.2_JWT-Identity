@@ -1,0 +1,16 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\bin\Debug\netcoreapp2.2\APIProdutos.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.RazorAssemblyInfo.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.RazorAssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.RazorTargetAssemblyInfo.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Incoming\ASPNETCore2.2_JWT-Identity\APIProdutos\obj\Debug\netcoreapp2.2\APIProdutos.pdb
